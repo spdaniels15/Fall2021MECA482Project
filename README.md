@@ -7,14 +7,6 @@ Maximiliano Narez
 Blake Bahn
 Nancy Padillia
 
-# Introduction
-
-
-
-# Mathmetical Model
-
-
-
 # Matlab Code
 clc; clear; close all;
 
