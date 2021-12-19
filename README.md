@@ -1,7 +1,10 @@
 # Fall2021MECA482Project
 Group 4
 Paul Daniels
-Ian
+Ian Yasui 
+Maximiliano Narez
+Blake Bahn
+Nancy Padillia
 # Matlab Code
 clc; clear; close all;
 
